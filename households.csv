@@ -1,0 +1,78 @@
+GENESIS-Tabelle: 12211-0104
+Households: Germany, years, children under 18 years of age;;;;
+Microcensus;;;;
+Germany;;;;
+Households (1000);;;;
+;Children under 18 years of age;Children under 18 years of age;Children under 18 years of age;Children under 18 years of age
+;1 child;2 children;3 children;4 or more children
+1968-04;3696;2726;1108;634
+1969-04;3708;2780;1133;636
+1970-05;3718;2848;1152;641
+1971-04;3747;2867;1147;628
+1972-04;3912;2990;1222;652
+1973-05;3951;3002;1193;620
+1974-04;3987;2989;1147;580
+1975-05;3990;3085;1138;560
+1976-05;3985;3042;1097;516
+1977-04;4049;3025;1051;470
+1978-04;4059;3006;1010;419
+1979-04;4042;3032;982;384
+1980-04;4125;3030;898;339
+1981-05;4186;2971;849;310
+1982-04;4215;2882;777;273
+1985-06;4039;2537;601;173
+1986-04;3967;2519;591;165
+1987-03;3842;2421;590;164
+1988-04;3735;2427;600;156
+1989-04;3689;2464;613;164
+1990-04;3685;2543;636;192
+1991-04;4795;3559;821;234
+1992-05;4780;3573;855;232
+1993-04;4791;3601;868;234
+1994-04;4756;3626;870;241
+1995-04;4772;3617;887;249
+1996-04;4725;3583;883;254
+1997-04;4759;3556;875;255
+1998-04;4728;3536;863;249
+1999-04;4742;3468;854;247
+2000-05;4715;3445;855;243
+2001-04;4664;3424;853;245
+2002-04;4698;3398;837;247
+2003-05;4686;3351;832;236
+2004-03;4647;3314;824;222
+2005;4632;3231;783;195
+2006;4630;3192;760;193
+2007;4508;3145;741;191
+2008;4421;3085;731;187
+2009;4332;2999;724;184
+2010;4282;2977;697;176
+2011;4273;2969;708;176
+2012;4277;2964;697;177
+2013;4258;2936;705;174
+2014;4263;2934;699;173
+2015;4248;2924;701;170
+2016;4276;3013;726;199
+_____
+Households with at least one child under 18 years and,
+possibly, additional children of other age groups.
+
+1970: Population census result.
+
+1975: EC labour force survey result.
+
+Until 1990: Former territory of the Federal Republic.
+
+1968, 1969 and 1971: Population entitled to accommodation.
+1970 and from 1972: Population in private households.
+
+From 2005:
+Conversion of the microcensus from a survey with a fixed
+reference week to a continuous survey with a moving
+reference week.
+
+From 2011:
+Extrapolation using the intercensal population updates based
+on the 2011 Census.
+_____
+(C)opyright Statistisches Bundesamt (Destatis), 2018
+created: 01.05.2018 - 01:40:20
